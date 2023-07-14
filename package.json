@@ -1,6 +1,6 @@
 {
   "name": "cute-pets-website",
-  "homepage": " https://vasu241057.github.io/React-Router-v1",
+  "homepage": "https://vasu241057.github.io/React-Router-v1/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "msw": "^0.28.2",
     "prettier": "^2.2.1"
   },
